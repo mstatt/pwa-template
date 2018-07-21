@@ -27,6 +27,7 @@ This is just a skeleton structure for you to insert your code, css and js files 
                   - * (all standard icons and favicons)
                 
                 
-#Demo:
+#Demo:(----Visit demo from a mobile device to see the prompt----)
+
 https://pwa-mjs.firebaseapp.com/
 
