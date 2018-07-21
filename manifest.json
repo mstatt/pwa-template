@@ -1,0 +1,26 @@
+{
+  "short_name": "PWA",
+  "name": "Progressive Web Application",
+  "icons": [
+    {
+      "src": "/img/icons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/android-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#FF0000",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": true,
+  "description": "Progressive Web Application by Michael Stattelman.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "theme_color": "#FF0000"
+}
