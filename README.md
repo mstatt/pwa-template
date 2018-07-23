@@ -2,7 +2,7 @@
 This a base template for a Progressive Web Application.
 
 
-![Screenshot](emulator.png)
+![Android](emulator.png)
 
 
 This is just a skeleton structure for you to insert your code, css and js files and provide you with the prompt "add to homescreen" on mobile devices. 
